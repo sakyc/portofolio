@@ -32,7 +32,7 @@ function headerShadow() {
 
 
 var typingEffect = new Typed(".typedText",{
-  strings : ["Programer","Video Editing","Maou😈👿"],
+  strings : ["Programer","Video Editing","im Atomic"],
   loop : true,
   typeSpeed : 100, 
   backSpeed : 80,
